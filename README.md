@@ -1,2 +1,2 @@
 
-Study of C structures
+Study of C function
